@@ -18,6 +18,7 @@ export default function Header({ searchProps }) {
             type='text'
             ref={searchProps.inputRef}
             placeholder='Arama teriminizi buraya girin.'
+          
           />
         </div>
 
